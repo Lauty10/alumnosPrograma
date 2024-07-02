@@ -1,0 +1,5 @@
+#ifndef FUNCIONESDEPROYECTO_H_INCLUDED
+#define FUNCIONESDEPROYECTO_H_INCLUDED
+#include <iostream>
+void menuAlumnos(int opcion);
+#endif // FUNCIONESDEPROYECTO_H_INCLUDED

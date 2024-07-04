@@ -1,12 +1,15 @@
 # depslib dependency file v1.0
-1719881112 source:c:\users\lauty\onedrive\escritorio\alumnosproyecto\main.cpp
+1720049479 source:c:\users\lauty\onedrive\escritorio\alumnosproyecto\main.cpp
 	<iostream>
 	"funcionesDeProyecto.h"
+	<string>
 
-1719881112 c:\users\lauty\onedrive\escritorio\alumnosproyecto\funcionesdeproyecto.h
+1720050299 c:\users\lauty\onedrive\escritorio\alumnosproyecto\funcionesdeproyecto.h
 	<iostream>
+	<string>
 
-1719882270 source:c:\users\lauty\onedrive\escritorio\alumnosproyecto\funcionesejecutar.cpp
+1720050208 source:c:\users\lauty\onedrive\escritorio\alumnosproyecto\funcionesejecutar.cpp
 	<iostream>
 	"funcionesDeProyecto.h"
+	<string>
 

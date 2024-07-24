@@ -1,6 +1,7 @@
 #include <iostream>
 #include "funcionesDeProyecto.h"
 #include <string>
+#include "rlutil.h"
 
 using namespace std;
 int main(){

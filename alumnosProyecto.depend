@@ -1,15 +1,31 @@
 # depslib dependency file v1.0
-1720054580 source:c:\users\lauty\onedrive\escritorio\alumnosproyecto\main.cpp
+1720222517 source:c:\users\lauty\onedrive\escritorio\alumnosproyecto\main.cpp
 	<iostream>
 	"funcionesDeProyecto.h"
 	<string>
+	"rlutil.h"
 
-1720137720 c:\users\lauty\onedrive\escritorio\alumnosproyecto\funcionesdeproyecto.h
+1721862351 c:\users\lauty\onedrive\escritorio\alumnosproyecto\funcionesdeproyecto.h
 	<iostream>
 	<string>
 
-1720135218 source:c:\users\lauty\onedrive\escritorio\alumnosproyecto\funcionesejecutar.cpp
+1721862648 source:c:\users\lauty\onedrive\escritorio\alumnosproyecto\funcionesejecutar.cpp
 	<iostream>
 	"funcionesDeProyecto.h"
 	<string>
+	"rlutil.h"
+
+1717605995 c:\users\lauty\onedrive\escritorio\alumnosproyecto\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
 
